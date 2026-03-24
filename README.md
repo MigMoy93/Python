@@ -1,2 +1,2 @@
 # Python
-Little proyectos on Python, following tutorials for increase my learn
+Little proyects on Python, following tutorials for increase my learn
